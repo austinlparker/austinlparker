@@ -1,4 +1,4 @@
-![Party Popper! Hello!](img/partypopper.gif)
+![Party Popper! Hello!](https://github.com/austinlparker/austinlparker/raw/master/img/partypopper.gif)
 
 ## 😄 About Me
 My name is Austin Parker, and you've found my GitHub `README`. I'm the organizer of [Deserted Island DevOps](https://desertedislanddevops.com), a developer advocate at [Lightstep](https://lightstep.com), and a maintainer for the [OpenTelemetry](https://opentelemetry.io) project.
