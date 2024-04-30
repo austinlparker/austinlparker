@@ -1,15 +1,13 @@
 ![Party Popper! Hello!](https://github.com/austinlparker/austinlparker/raw/master/img/partypopper.gif)
 
 ## 😄 About Me
-My name is Austin Parker, and you've found my GitHub `README`. I'm the organizer of [Deserted Island DevOps](https://desertedislanddevops.com), a developer advocate at [Lightstep](https://lightstep.com), and a maintainer for the [OpenTelemetry](https://opentelemetry.io) project.
+My name is Austin Parker, and you've found my GitHub `README`. I'm the organizer of [Deserted Island DevOps](https://desertedislanddevops.com), Director of Open Source at [honeycomb.io](https://honeycomb.io), and a maintainer for the [OpenTelemetry](https://opentelemetry.io) project.
 
 Outside of that, I'm interested in open source software, sustainable communities, and exploring the world.
 
 ## ☕ Get in touch!
-* Find me on Twitter, [@austinlparker](https://twitter.com/austinlparker).
-* You can read my [personal blog](https://aparker.io), updated infrequently.
-* I stream tech, observability, and more at [twitch.tv/oncallmemaybe](https://twitch.tv/oncallmemaybe), so give it a follow.
-
+* I'm on [mastodon](https://hachyderm.io/@austinlparker@hachyderm.io) and [bluesky](https://bsky.app/profile/xn--bt9h.aparker.io).
+* You can read my [personal blog](https://aparker.io).
 
 <!--
 **austinlparker/austinlparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
